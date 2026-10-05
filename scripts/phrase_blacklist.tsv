@@ -1,0 +1,7 @@
+# phrase_blacklist.tsv — TTS empty-audio trap: bad phrase → replacement
+# Format: LANG<TAB>BAD_PHRASE<TAB>GOOD_PHRASE   (lines starting with # are comments)
+# Seed entries below are real cases observed in production (cloud TTS returned
+# "success" with a silent file for the BAD phrase, reliably reproducible).
+# Add your own per language; the pipeline auto-replaces and re-dubs.
+
+es	Tomemos un respiro.	Tomemos un descanso.
