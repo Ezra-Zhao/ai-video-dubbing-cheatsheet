@@ -1,5 +1,7 @@
 # 🎙️ AI Video Dubbing Cheatsheet · AI 视频多语种配音速查表
 
+> 📚 **合集版**：这张表已收进旗舰合集 [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) —— 100 张速查表在一个仓库里，欢迎去合集点 ⭐。
+
 Multilingual video dubbing workflows that actually survived production: Whisper → cloud TTS → ffmpeg → subtitles, with the real pitfalls and fixes.
 
 **Full cheatsheets, one per language (written natively, not translated):**
